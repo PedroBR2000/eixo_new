@@ -441,14 +441,7 @@
     display: none;
 }
 
-.video1{
-    position: absolute;
-    top: 0;
-    right: 0;
-    text-align: center;
-    margin-right: 345px;
-    margin-top: 200px
-}
+
 
 @media (max-width: 767px){
     .container{
