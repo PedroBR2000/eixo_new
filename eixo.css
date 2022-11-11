@@ -441,10 +441,10 @@
     display: none;
 }
 
-.videob{
+.video1{
     position: absolute;
     top: 0;
-    rigth: 0;
+    right: 0;
     margin-right: 345px;
     margin-top: 200px
 }
