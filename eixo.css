@@ -445,8 +445,11 @@
     position: absolute;
     top: 0;
     right: 0;
-    margin-right: 100px;
-    margin-top: 200px
+    width: 750px;
+    text-align: center;
+    margin-right: 270px;
+    font-size: 20px;
+    margin-top: 1600px;
 }
 
 @media (max-width: 767px){
